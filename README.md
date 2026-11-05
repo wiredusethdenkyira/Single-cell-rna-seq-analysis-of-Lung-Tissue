@@ -166,4 +166,4 @@ The dataset is publicly available through the [NCBI Gene Expression Omnibus (GEO
 
 ## Project Status
 
-This is an exploratory single-sample analysis. Cluster annotations are provisional, and additional validation is required before drawing firm biological conclusions.
+This is an exploratory single-sample analysis. Cluster annotations are provisional, and additional validation is required before drawing firm conclusions.
